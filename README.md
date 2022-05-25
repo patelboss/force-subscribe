@@ -1,14 +1,14 @@
 # Force Subscribe :
 <p align="center"><a href="#"><img src="https://i.imgur.com/SmqQApH.jpg" width="250"></a></p> 
-<h1 align="center"><b>@Force_Subscriber_V1_Bot</b></h1>
+<h1 align="center"><b>@Force_subscribed_bot</b></h1>
 <h4 align="center">A Telegram Bot to force users to join a specific channel before sending messages in a group.</h4>
 
 # 🤖 Demo :
-Find it On Telegram As [@Force_Subscriber_V1_Bot](https://t.me/Force_Subscriber_V1_Bot)
+Find it On Telegram As [@Force_subscribed_bot](https://t.me/Force_subscribed_bot)
 
 # 👨‍💻 Deploy:
 ### -Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/patelboss/force-subscribe-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/patelboss/force-subscribe)
 
 # ⚙ Commands :
 
