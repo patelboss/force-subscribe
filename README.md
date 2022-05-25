@@ -1,22 +1,15 @@
 # Force Subscribe :
 <p align="center"><a href="#"><img src="https://i.imgur.com/SmqQApH.jpg" width="250"></a></p> 
-<h1 align="center"><b>@ForceSubscribeRobot</b></h1>
+<h1 align="center"><b>@Force_Subscriber_V1_Bot</b></h1>
 <h4 align="center">A Telegram Bot to force users to join a specific channel before sending messages in a group.</h4>
 
 # 🤖 Demo :
-Find it On Telegram As [@ForceSubscribeRobot](https://t.me/ForceSubscribeRoBot)
+Find it On Telegram As [@Force_Subscriber_V1_Bot](https://t.me/Force_Subscriber_V1_Bot)
 
 # 👨‍💻 Deploy:
 ### -Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/patelboss/FSub-Heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/patelboss/force-subscribe-)
 
-### -Normal Way
-```python3
-git clone https://github.com/DamienSoukara/FSub-Heroku
-cd FSub-Heroku
-pip3 install -r requirements.txt
-python3 bot.py
-```
 # ⚙ Commands :
 
 **Command :** ```/ForceSubscribe @Channel``` <br />
